@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there+I'm+a+Fullstack+Developer;I+'am+good+with+MERN+Stack+and+Next+Js;I'm+passionate+of+building+clean+UI)](https://git.io/typing-svg)
 
-👋 Hi, I'm Nilan Athapaththu, a Full Stack Developer with a passion for creating clean and efficient user interfaces. Welcome to my GitHub!
+👋 Hi, I'm Hansika, a Full Stack Developer with a passion for creating clean and efficient user interfaces. Welcome to my GitHub!
 
 🚀 Frameworks & Libraries 🔝
 
